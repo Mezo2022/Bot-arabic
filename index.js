@@ -398,7 +398,7 @@ Tol = await getBuffer(`https://hardianto.xyz/api/goodbye3?profile=${encodeURICom
 	
     /**
      * 
-     * @param {*} message 
+     * @param {*} messagne 
      * @param {*} filename 
      * @param {*} attachExtension 
      * @returns 
